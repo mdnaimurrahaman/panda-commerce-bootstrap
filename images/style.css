@@ -1,0 +1,28 @@
+.panda-bg{
+    background-color:#FEEAE9;
+    border-radius: 10px;
+}
+
+/* Categories background */
+.watch-bg-color{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.bag-bg-color{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.shows-bg-color{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.buynow-btn{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: none;
+}
+
+.price-color{
+    color: #FF136F;
+}
+.menu-items{
+    /* color: #FF136F; */
+    font-weight: 600;
+}
